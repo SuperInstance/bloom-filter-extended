@@ -1,6 +1,9 @@
 [package]
 name = "bloom-filter-extended"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Bloom Filter Extended"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/bloom-filter-extended"
+edition = "2021"
 
 [dependencies]
