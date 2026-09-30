@@ -1,9 +1,11 @@
 [package]
 name = "bloom-filter-extended"
 version = "0.1.0"
-description = "A Rust library for Bloom Filter Extended"
+description = "Bloom Filter Extended — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/bloom-filter-extended"
+repository = "https://github.com/SuperInstance/bloom-filter-extended"
 edition = "2021"
+
+keywords = ["bloom-filter-extended"]
 
 [dependencies]
